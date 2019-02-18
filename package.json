@@ -1,0 +1,24 @@
+{
+  "name": "esercizio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/armandoavino/esercizio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/armandoavino/esercizio/issues"
+  },
+  "homepage": "https://github.com/armandoavino/esercizio#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
